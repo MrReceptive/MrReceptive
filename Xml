@@ -1,6 +1,6 @@
 <Panel id="dedlyPlayerColorPicker" 
   padding="5" 
-  rectAlignment="MiddleRight" 
+  rectAlignment="UpperRight" 
   color="rgba(0.75, 0.75, 0.75, 0.5)" 
   height="{{HEIGHT}}" 
   width="200" 
